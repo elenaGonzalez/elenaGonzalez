@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h2>Hola, Soy Elena! </h2>
 <img align='right' src="https://media.giphy.com/media/Ieo88333eatH73xKQG/giphy.gif" width="230">
-<p><em>Licenciada en Sistemas en <a href="https://www.unne.edu.ar/"> UNNE </a><img src="https://media.giphy.com/media/iDsyZBoaRBdtvY4I8F/giphy.gif" width="30"></br>Developer<a href="https://www.soyhenry.com/"> Henry Bootcamp </a><img src="https://scontent.fsfn4-1.fna.fbcdn.net/v/t1.0-9/74214565_108438663927691_6856200923333525504_n.png?_nc_cat=105&ccb=2&_nc_sid=09cbfe&_nc_ohc=h0dg5JqfCCcAX_E6Qzo&_nc_ht=scontent.fsfn4-1.fna&oh=7527c4b5b328805df499ba91534f41c4&oe=5FFDA48A" width="25"> 
+<p><em>Licenciada en Sistemas en <a href="https://www.unne.edu.ar/"> UNNE </a><img src="https://media.giphy.com/media/iDsyZBoaRBdtvY4I8F/giphy.gif" width="30"></br>Developer<a href="https://www.soyhenry.com/"> Henry Bootcamp </a>
 </em></p>
 <p>Aquí puedes ver mi <a href="https://elenagonzalez.github.io/profile/">Profile</a></p>
 
