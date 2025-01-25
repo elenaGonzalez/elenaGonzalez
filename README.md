@@ -32,8 +32,8 @@ const ele = {
   herramientas: [React, Redux, Node, Express],
   arquitectura: ["design system pattern"],
   comunidad: {
-                        trabajo: "Henry",
-                        lenguaje: "Español",
+                        estudios: ["UNNE" ,"Henry"],
+                        lenguaje: ["Español", "Portugues"],
                       },
  desafio: "Aprender y Aplicar conocimientos adquiridos como Full Stack"
 }
